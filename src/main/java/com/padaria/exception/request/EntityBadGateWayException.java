@@ -1,4 +1,4 @@
-package com.padaria.exceptions;
+package com.padaria.exception.request;
 
 public class EntityBadGateWayException  extends RuntimeException{
 
